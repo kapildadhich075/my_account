@@ -12,11 +12,11 @@ export default function SignUpPage({}: Props) {
         <div className=" h-full lg:flex flex-col items-center justify-center px-4">
           <div className=" text-center space-y-4 pt-16">
             <h1 className=" font-bold text-3xl text-[#074173]">
-              Welcome to My Account
+              Welcome to My Finance
             </h1>
             <p className=" text-base text-[#1679AB]">
               Sign in or Create an account to get started with{" "}
-              <span className=" font-bold">My Account</span>
+              <span className=" font-bold">My Finance</span>
             </p>
           </div>
           <div className="flex items-center justify-center mt-8">
